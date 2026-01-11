@@ -44,7 +44,7 @@ export function Footer() {
                         <ul className="space-y-3 text-sm text-gray-300">
                             <li className="flex items-start gap-3">
                                 <MapPin className="h-5 w-5 text-teal shrink-0" />
-                                <span>Base Nautique<br />06000 Nice</span>
+                                <span>421 RUE DE LA CHAUSSEE<br />60190 MOYVILLERS</span>
                             </li>
                             <li className="flex items-center gap-3">
                                 <Phone className="h-5 w-5 text-teal shrink-0" />
